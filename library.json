@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Thorik123/TT_Turbidity"
     },
     "platforms": [
         "atmelavr",
