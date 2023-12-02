@@ -53,7 +53,7 @@ float TT_Turbidity::getNTU()
     }
     else
     {
-        readingNTU = -1120.4 * square(readingVoltage) + 5742.3 * readingVoltage - 4353.8;
+        readingNTU = -1120.4 * sq(readingVoltage) + 5742.3 * readingVoltage - 4353.8;
     }
     return readingNTU;
 }
