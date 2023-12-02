@@ -1,0 +1,17 @@
+#######################################
+# Syntax Coloring Map For TT_Turbidity
+#######################################
+
+#######################################
+# Datatypes     (KEYWORD1)
+#######################################
+
+TT_Turbidity	 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getADC	    KEYWORD2
+getVoltage	KEYWORD2
+getNTU      KEYWORD2
